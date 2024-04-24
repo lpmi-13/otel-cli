@@ -9,8 +9,8 @@ require (
 	github.com/google/go-cmp v0.6.0
 	github.com/pterm/pterm v0.12.79
 	github.com/spf13/cobra v1.8.0
-	go.opentelemetry.io/otel v1.24.0
-	go.opentelemetry.io/otel/sdk v1.24.0
+	go.opentelemetry.io/otel v1.26.0
+	go.opentelemetry.io/otel/sdk v1.26.0
 	go.opentelemetry.io/proto/otlp v1.1.0
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240325203815-454cdb8f5daa
 	google.golang.org/grpc v1.62.1
@@ -32,10 +32,10 @@ require (
 	github.com/rivo/uniseg v0.4.4 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e // indirect
-	go.opentelemetry.io/otel/metric v1.24.0 // indirect
-	go.opentelemetry.io/otel/trace v1.24.0 // indirect
+	go.opentelemetry.io/otel/metric v1.26.0 // indirect
+	go.opentelemetry.io/otel/trace v1.26.0 // indirect
 	golang.org/x/net v0.20.0 // indirect
-	golang.org/x/sys v0.17.0 // indirect
+	golang.org/x/sys v0.19.0 // indirect
 	golang.org/x/term v0.16.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20240123012728-ef4313101c80 // indirect
