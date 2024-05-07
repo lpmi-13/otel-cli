@@ -2,7 +2,7 @@ module github.com/equinix-labs/otel-cli
 
 go 1.21
 
-toolchain go1.21.1
+toolchain go1.22.3
 
 require (
 	github.com/golang/protobuf v1.5.3
