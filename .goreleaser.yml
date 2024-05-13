@@ -39,6 +39,9 @@ builds:
         goarch: 386
       - goos: freebsd
         goarch: arm64
+    ldflags:
+      # setting these linker flags strips the debug symbols from the compiled binary
+      - -w -s
 
 nfpms:
   - package_name: otel-cli
